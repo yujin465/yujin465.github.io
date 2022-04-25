@@ -1,2 +1,2 @@
-This website is created with templates from Prologue by HTML5 UP
+This website is the personal website for Yu Jin.
 
